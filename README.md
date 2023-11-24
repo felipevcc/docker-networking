@@ -37,7 +37,7 @@ docker-compose up -d
 
 Command to stop and delete the environment:
 ```bash
-docker-compose up -d
+docker-compose down
 ```
 
 For more information about Docker Compose consult its [documentation](https://docs.docker.com/compose/)
