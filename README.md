@@ -45,4 +45,4 @@ Command to stop and delete the environment:
 docker-compose down
 ```
 
-For more information about Docker Compose consult its [documentation](https://docs.docker.com/compose/)
+> For more information about Docker Compose consult its [documentation](https://docs.docker.com/compose/)
