@@ -30,6 +30,11 @@ docker network connect appnet app
 
 ## To configure it using Docker Compose
 
+To build the services run the following command:
+```bash
+docker-compose build
+```
+
 Command to create and start the environment:
 ```bash
 docker-compose up -d
